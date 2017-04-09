@@ -1,5 +1,24 @@
-// Challenge: Moles in Holes
+// Challenge: Say Your Name
+var Ella = function() {
 
+    var textX = random(0, 300);
+    var textY = random(0, 300);
+    var yourName = "Ella";
+
+
+    fill(255, 0, 0);
+    textSize(30);
+    text("Hiiii, " + yourName, textX, textY);
+};
+Ella();
+Ella();
+Ella();
+Ella();
+Ella();
+Ella();
+
+
+// Challenge: Moles in Holes
 var drawMole = function(moleX,moleY) {
     noStroke();
     fill(125, 93, 43);
