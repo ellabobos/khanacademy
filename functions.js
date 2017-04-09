@@ -23,4 +23,3 @@ drawMole(200,200);
 drawMole(70,120);
 drawMole(300,350);
 drawMole(300,60);
-Contact GitHub API Training Shop Blog About
