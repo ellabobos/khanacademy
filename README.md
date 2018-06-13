@@ -1,2 +1,2 @@
-# khanacademy.ella
+# Khan Academy Links
 fun and creative
