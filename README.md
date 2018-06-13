@@ -1,2 +1,2 @@
 # Khan Academy Links
-fun and creative whales
+fun and creative whales are the best
