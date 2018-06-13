@@ -1,2 +1,2 @@
-# Khan Academy Links Fart
-fun and creative
+# Khan Academy Links
+fun and creative whales
